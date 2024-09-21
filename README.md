@@ -1,5 +1,5 @@
 <p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSE6LVI4GzZbTJDko4u1ccyHVmz4WrOQqYXA&s" alt="UPV" style="width:15%"> 
+<img src="https://www.upv.es/comu/nueva-imagen/images/marca_UPV_principal_blanco300.png" alt="UPV" style="width:15%"> 
 </p>
 
 Here you will find some projects developed during my masters in acoustical engineering at Universitat Politècnica de València, in Spain. The projects are separated by their respective courses, listed below.
